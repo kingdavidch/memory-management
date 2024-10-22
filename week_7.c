@@ -21,8 +21,8 @@ int main() {
    
    // Predefined student names
    const char *names[] = {
-       "joshua", "david", "aaron", "favour", "ronald",
-       "justice", "ojo", "adebayo", "divine", "king"
+       "mel", "john", "abel", "liz", "biz",
+       "jessica", "benita", "kayla", "nimie", "kenny"
    };
    
    for(int i = 0; i < initialSize; i++) {
